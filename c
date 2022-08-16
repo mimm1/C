@@ -7,4 +7,4 @@ plugin://plugin.video.youtube/play/?video_id=_Rt6nqfWfIYY
 plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
 
 #EXTINF:-1 tvg-logo="https://arynews.tv/wp-content/uploads/2016/12/news-logo-2.jpg",ARY News
-plugin://plugin.video.youtube/play/?video_id=$38IEolI8f-w
+plugin://plugin.video.youtube/play/?video_id=_38IEolI8f-w
