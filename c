@@ -7,4 +7,4 @@ plugin://plugin.video.youtube/play/?video_id=38IEolI8f-w
 plugin://plugin.video.youtube/play/?video_id=_82sV2LQP6g
 
 #EXTINF:-1,AR NEWS
-http://42.200.67.163:8090/play/a0i2
+https://youtu.be/38IEolI8f-w
