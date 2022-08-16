@@ -1,8 +1,8 @@
 #EXTM3U 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",ARY
 plugin://plugin.video.youtube/play/?video_id=38IEolI8f-w
-#EXTINF:3,Ary News
-https://www.youtube.com/watch?v=38IEolI8f-w
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/_82sV2LQP6g/maxresdefault.jpg",BOL TV
+plugin://plugin.video.youtube/play/?video_id=Rt6nqfWfIYY
 #EXTINF:3,Ary QTV 
 http://akamaihd.wowzahls28.yuppcdn.net/live/aryqtv/chunklist.m3u8 
 #EXTINF:3,Geo News 
